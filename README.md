@@ -6,4 +6,4 @@
 
 **Just silence cave sounds.**
 
-### [Download](https://github.com/typeling1578/bedrock-no-cave-sounds/release/latest/download/BedrockNoCaveSounds.mcpack)
+### [Download](https://github.com/typeling1578/bedrock-no-cave-sounds/releases/latest/download/BedrockNoCaveSounds.mcpack)
