@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "[Bedrock] No Cave Sounds",
+        "description": "§lJust silence cave sounds.§r\nMade by §btypeling1578§r\nVersion: 1.0\nDownload: §bhttps://github.com/typeling1578/bedrock-no-cave-sounds§r",
+        "uuid": "5f07cc89-ed75-4174-91b2-f413d6337ed1",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "§lJust silence cave sounds.§r\nMade by §btypeling1578§r\nVersion: 1.0\nDownload: §bhttps://github.com/typeling1578/bedrock-no-cave-sounds§r",
+            "type": "resources",
+            "uuid": "470fc55d-865f-4b51-87a4-21289989fb49",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
